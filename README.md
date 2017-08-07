@@ -5,7 +5,7 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @Thejaswini/ynumber-formatter`
+  `npm install @Thejaswiniy/number-formatter`
 
 ## Usage
 
