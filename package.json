@@ -1,0 +1,19 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "A sample application that instances how to implement custom npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thejaswiniy/number-formatter.git"
+  },
+  "author": "Theja <thejaswini@enroco.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thejaswiniy/number-formatter/issues"
+  },
+  "homepage": "https://github.com/Thejaswiniy/number-formatter#readme"
+}
